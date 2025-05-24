@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff006f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ghaida!;Computer+Information+Systems+student;Aspiring+Software+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ghaida!;Computer+Information+Systems+Student;Aspiring+Software+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ## 👩🏻‍💻 About Me
 
-Hi there! I'm **Ghaida Alotaibi**, a Computer Information Systems undergraduate at IAU.  
-I’m passionate about software development, user-centric design, and using technology to solve real-world problems.  
+Hi there! I'm **Ghaida Alotaibi**, a Computer Information Systems undergraduate at Imam Abdulrahman Bin Faisal University (IAU).  
+I’m passionate about software development, user-centered design, and using technology to solve real-world problems.  
 I enjoy exploring both front-end and back-end technologies, and I'm constantly learning and building in my free time.
 
-📌 Currently focused on:  
-React.js | Next.js | Tailwind CSS | GSAP | Three.js | UI/UX Design
+📌 **Currently focused on:**  
+`React.js` | `Next.js` | `Tailwind CSS` | `GSAP` | `Three.js` | `UI/UX Design`
 
 ---
 
@@ -43,8 +43,8 @@ React.js | Next.js | Tailwind CSS | GSAP | Three.js | UI/UX Design
 ## 📫 Connect with Me
 
 <div align="center">
-  <a href="mailto:ghidakotaibi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff006f" alt="Email"></a>
-  <a href="http://linkedin.com/in/ghaida-alotaibi-bb9073265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=ff006f" alt="LinkedIn"></a>
+  <a href="mailto:ghidakotaibi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8A2BE2" alt="Email"></a>
+  <a href="http://linkedin.com/in/ghaida-alotaibi-bb9073265" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8A2BE2" alt="LinkedIn"></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
